@@ -19,6 +19,6 @@ keypoints:
 >
 ># and some code
 >~~~
-> ls -la
+ls -la
 >~~~
 {.callout}
