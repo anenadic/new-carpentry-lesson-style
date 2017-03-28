@@ -22,3 +22,5 @@ It has some text
 ls -la
 ~~~
 {: .callout}
+
+Some regular text
