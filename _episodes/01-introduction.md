@@ -17,7 +17,8 @@ keypoints:
 >## This is a callout
 >It has some text
 >
->~~~
 ># and some code
->code
+>~~~
+> ls -la
+>~~~
 {.callout}
